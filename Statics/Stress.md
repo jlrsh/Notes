@@ -1,0 +1,1 @@
+- generally, stress is the amount of force applied per region of a body

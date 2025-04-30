@@ -1,0 +1,3 @@
+- reaction forces are forces created in reaction to other forces
+- they usually are as strong as another force in order to keep $\sum F = 0$
+- usually arise from supports or [[Friction|friction]]

@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "81ec15219d3514ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "8edb48c54db428cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "266bd4849e79da03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statics/Second Moment of Area.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Second Moment of Area"
+            }
+          },
+          {
+            "id": "b48740ab29bea8aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statics/Second Moment of Area.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Second Moment of Area"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33def130843aaa09",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae07f84a9f021a6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d57ad03ae856c4ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0e4a034c4cfa285d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "normal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fd504f6dac176758",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4dd5318a151702b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba9f616980fa4e1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2270611148911570",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e4b9606d5a0e1631",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "074731e20c65a160",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95d109a742b0c75c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f74fe8db9de29255",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "266bd4849e79da03",
+  "lastOpenFiles": [
+    "Statics/Bending Strain.md",
+    "Statics/Bending Stress.md",
+    "Statics/Second Moment of Area.md",
+    "Statics/Hooke's Law.md",
+    "Statics/Friction.md",
+    "Statics/Axial Stress.md",
+    "Statics/Axial Strain.md",
+    "Statics/Torsional Stress.md",
+    "Statics/Polar Moment of Inertia.md",
+    "Statics/Shear Stress.md",
+    "Statics/Shear Strain.md",
+    "Statics/Bending Moment.md",
+    "Statics/attachments/Pasted image 20250430170149.png",
+    "Statics/Shear Modulus.md",
+    "Statics/Shear Force.md",
+    "Statics/Shear & Bending Diagrams.md",
+    "Statics/Poisson's Ratio.md",
+    "Statics/Internal Forces.md",
+    "Statics/Hydrostatic Pressure.md",
+    "Statics/Young's Modulus.md",
+    "Statics/Stress.md",
+    "Statics/attachments/Pasted image 20250430164850.png",
+    "Statics/Strain.md",
+    "Statics/Trusses.md",
+    "Statics/Torque.md",
+    "Statics/attachments/Pasted image 20250430162423.png",
+    "Statics/Reaction Force.md",
+    "Statics/Frames & Machines.md",
+    "Statics/attachments/Pasted image 20250430160019.png",
+    "Statics/attachments/Pasted image 20250430155036.png",
+    "Statics/attachments/Pasted image 20250430155318.png",
+    "Statics/attachments/Pasted image 20250430154813.png",
+    "Statics/attachments",
+    "Statics/attachments/ME270.pdf",
+    "Statics/attachments/ME270.goodnotes",
+    "Statics"
+  ]
+}

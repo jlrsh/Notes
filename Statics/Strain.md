@@ -1,0 +1,1 @@
+- generally, strain is how much a body deforms due to force applied
