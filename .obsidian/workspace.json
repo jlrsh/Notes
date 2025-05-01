@@ -4,38 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "8edb48c54db428cf",
+        "id": "86e7e9e99eaec755",
         "type": "tabs",
         "children": [
           {
-            "id": "266bd4849e79da03",
+            "id": "74a20410079680c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statics/Second Moment of Area.md",
+                "file": "Self Determination Theory/Competency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Moment of Area"
+              "title": "Competency"
             }
           },
           {
-            "id": "b48740ab29bea8aa",
+            "id": "d82b17cb4156429e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statics/Second Moment of Area.md",
+                "file": "Self Determination Theory/Relatedness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Moment of Area"
+              "title": "Relatedness"
+            }
+          },
+          {
+            "id": "4c1254c0c83b589a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Determination Theory/Autonomy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Autonomy"
+            }
+          },
+          {
+            "id": "0a00bec1374a8ff7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Circuits/attachments/Pasted image 20250430215033.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250430215033"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,40 +211,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "266bd4849e79da03",
+  "active": "f74fe8db9de29255",
   "lastOpenFiles": [
-    "Statics/Bending Strain.md",
-    "Statics/Bending Stress.md",
-    "Statics/Second Moment of Area.md",
-    "Statics/Hooke's Law.md",
-    "Statics/Friction.md",
-    "Statics/Axial Stress.md",
-    "Statics/Axial Strain.md",
-    "Statics/Torsional Stress.md",
-    "Statics/Polar Moment of Inertia.md",
-    "Statics/Shear Stress.md",
-    "Statics/Shear Strain.md",
-    "Statics/Bending Moment.md",
+    "Self Determination Theory/Main Pillars of SDT.md",
+    "Self Determination Theory/Self Determination Theory.md",
+    "Self Determination Theory/Autonomy.md",
+    "Self Determination Theory/Relatedness.md",
+    "Self Determination Theory/Competency.md",
+    "Circuits/AC Circuits.md",
+    "Self Determination Theory",
+    "Circuits/attachments/Pasted image 20250501020940.png",
+    "Circuits/Phasors.md",
+    "Circuits/attachments/Pasted image 20250501002827.png",
+    "Circuits/attachments/Pasted image 20250501002414.png",
+    "Circuits/attachments/Pasted image 20250501002008.png",
+    "Circuits/Impedance.md",
+    "Circuits/Admittance.md",
+    "Circuits/Conductance.md",
+    "Circuits/Resistance.md",
+    "Circuits/res.md",
+    "Circuits/Ohm's Law.md",
+    "Circuits/Time Constants.md",
+    "Circuits/Inductors.md",
+    "Circuits/Capacitors.md",
+    "Circuits/Resistors.md",
+    "Circuits/attachments/Pasted image 20250430215033.png",
+    "Circuits/Thevenin & Norton.md",
+    "Circuits/Nodal Analysis.md",
+    "Circuits/Kirchoff's Current Law.md",
+    "Circuits/Voltage.md",
+    "Circuits/Mesh Analysis.md",
+    "Circuits/Linearity.md",
+    "Circuits/Source Transformation.md",
+    "Circuits/attachments/Pasted image 20250430204735.png",
+    "Circuits/attachments",
+    "Circuits/Reactivity.md",
+    "Circuits/Kirchoff's Voltage Law.md",
+    "Circuits",
     "Statics/attachments/Pasted image 20250430170149.png",
-    "Statics/Shear Modulus.md",
-    "Statics/Shear Force.md",
-    "Statics/Shear & Bending Diagrams.md",
-    "Statics/Poisson's Ratio.md",
-    "Statics/Internal Forces.md",
-    "Statics/Hydrostatic Pressure.md",
-    "Statics/Young's Modulus.md",
-    "Statics/Stress.md",
     "Statics/attachments/Pasted image 20250430164850.png",
-    "Statics/Strain.md",
-    "Statics/Trusses.md",
-    "Statics/Torque.md",
     "Statics/attachments/Pasted image 20250430162423.png",
-    "Statics/Reaction Force.md",
-    "Statics/Frames & Machines.md",
     "Statics/attachments/Pasted image 20250430160019.png",
-    "Statics/attachments/Pasted image 20250430155036.png",
-    "Statics/attachments/Pasted image 20250430155318.png",
-    "Statics/attachments/Pasted image 20250430154813.png",
     "Statics/attachments",
     "Statics/attachments/ME270.pdf",
     "Statics/attachments/ME270.goodnotes",

@@ -31,15 +31,13 @@
     "select": [
       {
         "modifiers": [],
-        "key": "Tab",
+        "key": "Enter",
         "hideHotkeyGuide": false
       }
     ],
     "select with custom alias": [
       {
-        "modifiers": [
-          "Shift"
-        ],
+        "modifiers": [],
         "key": "Tab",
         "hideHotkeyGuide": false
       }
