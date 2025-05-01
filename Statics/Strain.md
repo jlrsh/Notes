@@ -1,1 +1,3 @@
 - generally, strain is how much a body deforms due to force applied
+- dimensionless, ratio of length 
+- 

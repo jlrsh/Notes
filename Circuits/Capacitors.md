@@ -1,4 +1,4 @@
-Capacitors: an element that gradually stores charge through buildup
+Capacitors: an element that gradually stores [[Voltage|voltage]] through buildup
 $$i_C(t) = C \frac{dv_C(t)}{dt}; v_c(t) = v_0 + \frac{1}{C}\int_{t_0}^{t}i_c(x)dx; W_C = \frac{1}{2}Cv_c^2(t)$$
 
 - Steady: capacitors block all current from passing through but let all voltage through

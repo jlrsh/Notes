@@ -5,7 +5,7 @@ aliases:
   - independent source
   - dependent source
 ---
-Sources provide voltage or current independently or dependently
+Sources provide [[Voltage]] or [[Current]] independently or dependently
 
 - **Independent sources** provide current/voltage labeled no matter what
 - **Dependent sources** provide current/voltage dependent on other quantities

@@ -1,3 +1,9 @@
+---
+aliases:
+  - area moment of inertia
+  - area moi
+---
+
 geometric property of a cross-section quantifying resistance to bending
 
 $$I_x = \int_A y^2 dA$$

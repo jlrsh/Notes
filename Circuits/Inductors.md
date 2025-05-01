@@ -1,4 +1,4 @@
-Inductors: an element that resists changes in current
+Inductors: an element that resists changes in [[Current|current]]
 $$v_L(t) = L \frac{di_L(t)}{dt}; i_L(t) = i_L(t_0) + \frac{1}{L}\int_{t_0}^{t}v_L(x)dx; W_L = \frac{1}{2}Li_L^2(t)$$
 
 - Steady: inductors block all current from passing through but let all voltage through

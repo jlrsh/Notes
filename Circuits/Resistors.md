@@ -1,4 +1,4 @@
-Resistors: element that resist current flow
+Resistors: element that resist [[Current]] flow
 
 ### Resistors in Parallel
 $$R_{eq} = \frac{1}{\sum \frac{1}{R_n}} = \frac{R_1*R_2}{R_1 + R_2}$$

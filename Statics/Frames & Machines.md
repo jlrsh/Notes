@@ -1,4 +1,4 @@
-- frames are similar to machines in which they have rigid members
+- frames are similar to [[Trusses|trusses]] in which they have rigid members
 - however, members can be loaded at multiple points (not necessarily ends or joints)
 - forces at each joint can be assumed but joints between members in a frame must have equal and opposite reactions
 	- if joint A on AB has $F_x > 0 \cup F_y > 0$ then joint A on AC must have $F_x < 0 \cup F_y < 0$

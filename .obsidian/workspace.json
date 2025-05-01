@@ -4,65 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "86e7e9e99eaec755",
+        "id": "d9ca362fd62ff66c",
         "type": "tabs",
         "children": [
           {
-            "id": "74a20410079680c5",
+            "id": "ceeb3cea7085dc66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Determination Theory/Competency.md",
+                "file": "Differential Equations/Linear Differential Equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Competency"
+              "title": "Linear Differential Equation"
             }
           },
           {
-            "id": "d82b17cb4156429e",
+            "id": "092dc03f294a0d48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Determination Theory/Relatedness.md",
+                "file": "Differential Equations/Population Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relatedness"
-            }
-          },
-          {
-            "id": "4c1254c0c83b589a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Determination Theory/Autonomy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Autonomy"
-            }
-          },
-          {
-            "id": "0a00bec1374a8ff7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Circuits/attachments/Pasted image 20250430215033.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250430215033"
+              "title": "Population Models"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "normal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,55 +179,59 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-git:Open Git source control": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "f74fe8db9de29255",
+  "active": "092dc03f294a0d48",
   "lastOpenFiles": [
-    "Self Determination Theory/Main Pillars of SDT.md",
+    "Differential Equations/Linear Differential Equation.md",
+    "Differential Equations/Population Models.md",
+    "Differential Equations/Exact Differential Equations.md",
+    "Differential Equations/Bernoulli Differential Equation.md",
+    "Differential Equations/Differential Equation.md",
+    "Differential Equations/Homogenous Differential Equation.md",
+    "Differential Equations/Untitled 1.md",
+    "Differential Equations/Separable Differential Equation.md",
+    "Differential Equations/Slope Field.md",
+    "Statics/Second Moment of Area.md",
+    "Differential Equations",
+    "Statics/Untitled.md",
+    "Linear Algebra",
+    "Self Determination Theory/_SDT READING LIST.md",
+    "_HOMEPAGE.md",
     "Self Determination Theory/Self Determination Theory.md",
     "Self Determination Theory/Autonomy.md",
     "Self Determination Theory/Relatedness.md",
     "Self Determination Theory/Competency.md",
-    "Circuits/AC Circuits.md",
+    "Self Determination Theory/Main Pillars of SDT.md",
+    "Statics/Strain.md",
+    "Circuits/Reactivity.md",
+    "Circuits/Current.md",
+    "Statics/Hydrostatic Pressure.md",
+    "Statics/Frames & Machines.md",
+    "Circuits/Admittance.md",
+    "Circuits/Capacitors.md",
+    "Circuits/Inductors.md",
+    "Statics/attachments/ME270.pdf",
+    "Untitled.canvas",
+    "Circuits/attachments/Pasted image 20250430215033.png",
     "Self Determination Theory",
     "Circuits/attachments/Pasted image 20250501020940.png",
-    "Circuits/Phasors.md",
     "Circuits/attachments/Pasted image 20250501002827.png",
     "Circuits/attachments/Pasted image 20250501002414.png",
     "Circuits/attachments/Pasted image 20250501002008.png",
-    "Circuits/Impedance.md",
-    "Circuits/Admittance.md",
-    "Circuits/Conductance.md",
-    "Circuits/Resistance.md",
-    "Circuits/res.md",
-    "Circuits/Ohm's Law.md",
-    "Circuits/Time Constants.md",
-    "Circuits/Inductors.md",
-    "Circuits/Capacitors.md",
-    "Circuits/Resistors.md",
-    "Circuits/attachments/Pasted image 20250430215033.png",
-    "Circuits/Thevenin & Norton.md",
-    "Circuits/Nodal Analysis.md",
-    "Circuits/Kirchoff's Current Law.md",
-    "Circuits/Voltage.md",
-    "Circuits/Mesh Analysis.md",
-    "Circuits/Linearity.md",
-    "Circuits/Source Transformation.md",
     "Circuits/attachments/Pasted image 20250430204735.png",
     "Circuits/attachments",
-    "Circuits/Reactivity.md",
-    "Circuits/Kirchoff's Voltage Law.md",
     "Circuits",
     "Statics/attachments/Pasted image 20250430170149.png",
     "Statics/attachments/Pasted image 20250430164850.png",
     "Statics/attachments/Pasted image 20250430162423.png",
     "Statics/attachments/Pasted image 20250430160019.png",
     "Statics/attachments",
-    "Statics/attachments/ME270.pdf",
     "Statics/attachments/ME270.goodnotes",
     "Statics"
   ]
