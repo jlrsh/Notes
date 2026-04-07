@@ -1,0 +1,24 @@
+{
+  "id": "conv-1775538859717-ian40jj57",
+  "providerId": "claude",
+  "title": "can you find relevant pdf links similar to the pre...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1775538859718,
+  "updatedAt": 1775539016955,
+  "lastResponseAt": 1775539016955,
+  "sessionId": "bc3b6c53-4d09-497e-ac06-c6373a6f2b89",
+  "providerState": {
+    "providerSessionId": "bc3b6c53-4d09-497e-ac06-c6373a6f2b89"
+  },
+  "currentNote": "Robot Learning/INDEX.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 796,
+    "cacheReadInputTokens": 34291,
+    "contextWindow": 200000,
+    "contextTokens": 35095,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
+}

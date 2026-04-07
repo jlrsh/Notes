@@ -11,7 +11,7 @@ diagrams that display shear force or bending moment at a point for a body
 - should start and end at 0, given beam is at equilibrium
 
 ### Bending Diagrams
-- diagrams that display the [[Bending Moment|Bending Moment]]at any given point
+- diagrams that display the [[Bending Moment|Bending Moment]] at any given point
 - bending is integral of shear and double integral of load
 - should start and end at 0, given beam is at equilibrium
 

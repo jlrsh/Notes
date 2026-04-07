@@ -1,0 +1,11 @@
+- [Reinforcement Learning: An Overview][https://arxiv.org/pdf/2412.05265]
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Deep Generative Models](https://kuleshov-group.github.io/dgm-website/)
+- [UCSD CSE 234: DS for ML](https://hao-ai-lab.github.io/cse234-w25/)
+- [Deep Learning for ECE](https://yassineyousfi.github.io/pages/teaching.html)
+- [Karpathy's microgpt](https://karpathy.ai/microgpt.html)
+- [DiAMOND](https://arxiv.org/abs/2405.12399)
+- [https://www.rhoda.ai/research/direct-video-action](https://www.rhoda.ai/research/direct-video-action
+- [https://si.inc/posts/fdm1/](https://si.inc/posts/fdm1/)
+- [Artificial Intelligence: A Modern Approach](https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf) [4th edition](https://github.com/pemagrg1/AI_class2022/blob/main/book/Artificial-Intelligence-A-Modern-Approach-4th-Edition-1-compressed.pdf)
+- [Price's Understanding Deep Learning](https://udlbook.github.io/udlbook/)

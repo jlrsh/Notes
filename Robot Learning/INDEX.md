@@ -1,0 +1,16 @@
+- [HF's Robot Learning: A Tutorial](https://arxiv.org/pdf/2510.12403)
+- [Reinforcement Learning in Robotics](https://arxiv.org/pdf/2408.03539) 
+- [Domain Randomization](https://arxiv.org/pdf/1703.06907)
+- [State of Robot Learning](https://vedder.io/misc/state_of_robot_learning_dec_2025.html)
+
+
+- [Action Chunking with Transformers (ACT) - Zhao et al., 2023](https://arxiv.org/abs/2304.13705)
+- [Diffusion Policy - Chi et al., 2024](https://arxiv.org/abs/2303.04137)
+- [Vector-Quantized Behavior Transformer (VQ-BeT) - Lee et al., 2024](https://arxiv.org/abs/2403.03181)
+- [π0: A Vision-Language-Action Flow Model - Black et al., 2024](https://arxiv.org/abs/2410.24164)
+- [SmolVLA: A Vision-Language-Action Model - Shukor et al., 2025](https://arxiv.org/abs/2506.01844)
+- [Human-in-the-Loop Sample-efficient RL (HIL-SERL) - Luo et al., 2024](https://arxiv.org/abs/2410.21845)
+- [Temporal Difference Learning for Model Predictive Control (TD-MPC) - Hansen et al., 2022](https://arxiv.org/abs/2203.04955)
+- [Reinforcement Learning: An Introduction - Sutton & Barto, 2018](https://archive.org/details/rlbook2018)
+- [Springer Handbook of Robotics - Siciliano & Khatib, 2016 (Chapters 2, 7, 8)](https://link.springer.com/book/10.1007/978-3-319-32552-1)
+- [Modern Robotics: Mechanics, Planning, and Control - Lynch & Park, 2017 (Chapters 6, 11)](https://hades.mech.northwestern.edu/images/2/25/MR-v2.pdf)
